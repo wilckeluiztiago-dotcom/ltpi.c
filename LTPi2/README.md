@@ -1,7 +1,7 @@
 # LTPi2 - Calculadora de Pi de Alta Precisão
 
 **Autor:** Luiz Tiago Wilcke  
-**Data:** Dezembro 2024
+**Data:** Dezembro 2025
 
 ## Descrição
 
