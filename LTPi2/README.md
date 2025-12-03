@@ -5,7 +5,7 @@
 
 ## Descrição
 
-**LTPi2** é uma implementação sofisticada em C puro para cálculo de Pi com precisão arbitrária (100.000 dígitos). O projeto demonstra algoritmos avançados de matemática computacional com variáveis e comentários em português.
+**LTPi2** é uma implementação sofisticada em C puro para cálculo de Pi com precisão arbitrária (100.000 dígitos). 
 
 ## Características Técnicas
 
